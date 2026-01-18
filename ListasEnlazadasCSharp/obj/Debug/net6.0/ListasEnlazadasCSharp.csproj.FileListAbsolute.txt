@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\obj\Debug\net6.0\ListasEnlazadasCSharp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\obj\Debug\net6.0\ListasEnlazadasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\obj\Debug\net6.0\ListasEnlazadasCSharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\obj\Debug\net6.0\ListasEnlazadasCSharp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\obj\Debug\net6.0\ListasEnlazadasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\bin\Debug\net6.0\ListasEnlazadasCSharp.exe
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\bin\Debug\net6.0\ListasEnlazadasCSharp.deps.json
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\bin\Debug\net6.0\ListasEnlazadasCSharp.runtimeconfig.json
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\bin\Debug\net6.0\ListasEnlazadasCSharp.dll
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\bin\Debug\net6.0\ListasEnlazadasCSharp.pdb
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\obj\Debug\net6.0\ListasEnlazadasCSharp.dll
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\obj\Debug\net6.0\refint\ListasEnlazadasCSharp.dll
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\obj\Debug\net6.0\ListasEnlazadasCSharp.pdb
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\obj\Debug\net6.0\ListasEnlazadasCSharp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ESTRUCTURA DE DATOS\ListasEnlazadasCSharp\obj\Debug\net6.0\ref\ListasEnlazadasCSharp.dll
